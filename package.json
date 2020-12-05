@@ -1,0 +1,24 @@
+{
+  "name": "share_the_knowledge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-m10/share_the_knowledge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-m10/share_the_knowledge/issues"
+  },
+  "homepage": "https://github.com/daniel-m10/share_the_knowledge#readme",
+  "dependencies": {
+    "testcafe": "^1.9.4",
+    "testcafe-reporter-xunit": "^2.1.0"
+  }
+}
